@@ -1,8 +1,6 @@
 <div class="p-6">
 
-
-
-    <h1 class="text-2xl font-bold mb-6">Analytics Overview</h1>
+    <h1 class="text-2xl font-bold mb-6">Analytic Bussiness By AslanAsilon</h1>
 
     {{-- Top Grid: 1 row, 2 columns --}}
     <div class="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-8">
@@ -14,12 +12,10 @@
         {{-- Right Column: 2 rows --}}
         <div class="grid grid-rows-2 gap-4">
             <div class="bg-white border rounded-lg p-4 shadow">
-                <h2 class="text-sm text-gray-600 mb-1">banner 1</h2>
-                <img src="" alt="" srcset="">
+                <img src="{{ asset('decoration/decoration1.png') }}" alt="" srcset="">
             </div>
             <div class="bg-white border rounded-lg p-4 shadow">
-                <h2 class="text-sm text-gray-600 mb-1">banner 2</h2>
-                <img src="" alt="" srcset="">
+                <img src="{{ asset('decoration/decoration2.png') }}" alt="" srcset="">
             </div>
         </div>
     </div>

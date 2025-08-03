@@ -35,7 +35,12 @@
         <x-slot:sidebar drawer="main-drawer" collapsible class="bg-base-100 lg:bg-inherit">
 
             {{-- BRAND --}}
-            <x-app-brand class="px-5 pt-4" />
+                <div class="flex items-center gap-2 w-fit">
+                    <x-icon name="o-cube" class="w-6 -mb-1.5 text-purple-500" />
+                    <span class="font-bold text-3xl me-3 bg-gradient-to-r from-purple-500 to-pink-300 bg-clip-text text-transparent ">
+                        Analytic App
+                    </span>
+                </div>
 
             {{-- MENU --}}
             <x-menu activate-by-route>
