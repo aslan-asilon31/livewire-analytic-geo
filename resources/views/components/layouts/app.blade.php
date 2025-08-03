@@ -53,10 +53,23 @@
                     <x-menu-separator />
                 @endif
 
-                <x-menu-item title="Pendapatan per Wilayah" icon="o-sparkles" link="/" />
-                <x-menu-item title="Tren Penjualan Berdasarkan Waktu" icon="o-sparkles" link="/penjualan-by-waktu" />
-                <x-menu-item title="Transaksi per wilayah" icon="o-sparkles" link="/jumlah-transaki-per-wilayah" />
-                
+                    <x-menu-item title="Dashboard" icon="o-sparkles" link="/" />
+                    <x-menu-item title="Pendapatan per Wilayah" icon="o-banknotes" link="/pendapatan-per-wilayah" />
+                    <x-menu-item title="Tren Penjualan Berdasarkan Waktu" icon="o-chart-bar" link="/penjualan-by-waktu" />
+                    <x-menu-item title="Transaksi per Wilayah" icon="o-map" link="/jumlah-transaksi-per-wilayah" />
+                    <x-menu-item title="Segmentasi Demografi" icon="o-user-group" link="/segmentasi-demografi" />
+                    <x-menu-item title="Produk Terlaris per Wilayah" icon="o-shopping-bag" link="/produk-terlaris" />
+                    <x-menu-item title="Perilaku Konsumen" icon="o-user-circle" link="/perilaku-konsumen" />
+                    <x-menu-item title="Stok Produk per Wilayah" icon="o-cube" link="/stok-wilayah" />
+                    <x-menu-item title="Promo dan Kampanye Wilayah" icon="o-bolt" link="/promo-wilayah" />
+                    <x-menu-item title="Lokasi Gudang dan Distribusi" icon="o-truck" link="/gudang-distribusi" />
+                    <x-menu-item title="Waktu Pengiriman & Kepuasan" icon="o-clock" link="/pengiriman-dan-kepuasan" />
+                    <x-menu-item title="Kepadatan Populasi" icon="o-chart-pie" link="/kepadatan-populasi" />
+                    <x-menu-item title="Pertumbuhan Penjualan" icon="o-arrow-trending-up" link="/pertumbuhan-penjualan" />
+                    <x-menu-item title="Pengaruh Musim/Cuaca" icon="o-cloud" link="/pengaruh-cuaca" />
+                    <x-menu-item title="Persaingan Antar Wilayah" icon="o-adjustments-horizontal" link="/persaingan-wilayah" />
+                    <x-menu-item title="Layanan Purna Jual" icon="o-lifebuoy" link="/layanan-purna-jual" />
+
                 <x-menu-sub title="Settings" icon="o-cog-6-tooth">
                     <x-menu-item title="Wifi" icon="o-wifi" link="####" />
                     <x-menu-item title="Archives" icon="o-archive-box" link="####" />

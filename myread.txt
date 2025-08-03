@@ -1,0 +1,74 @@
+1. Pendapatan per Wilayah
+Kriteria: Tampilkan total pendapatan yang dihasilkan dari penjualan di tiap wilayah.
+
+Manfaat: Memberikan gambaran seberapa banyak pendapatan yang dihasilkan di setiap wilayah yang ditandai, serta menunjukkan kontribusi wilayah terhadap total pendapatan.
+
+2. Tren Penjualan Berdasarkan Waktu
+Kriteria: Tampilkan tren penjualan dari waktu ke waktu (harian, mingguan, bulanan).
+
+Manfaat: Menunjukkan pola penjualan di setiap wilayah, yang bisa membantu menganalisis musim atau waktu tertentu yang memiliki penjualan lebih tinggi.
+
+3. Jumlah Transaksi per Wilayah
+Kriteria: Menampilkan jumlah transaksi atau jumlah pembelian yang terjadi di tiap wilayah.
+
+Manfaat: Memberikan wawasan tentang seberapa sering konsumen melakukan pembelian di masing-masing wilayah.
+
+4. Segmentasi Pasar Berdasarkan Demografi
+Kriteria: Menampilkan demografi konsumen di tiap wilayah (misalnya, usia, jenis kelamin, atau kelas sosial).
+
+Manfaat: Membantu dalam mengidentifikasi target pasar dan merencanakan strategi pemasaran yang lebih tersegmentasi.
+
+5. Persentase Produk yang Terjual di Wilayah Tertentu
+Kriteria: Menampilkan produk yang paling laris di tiap wilayah dan persentase produk yang terjual dibandingkan produk lainnya.
+
+Manfaat: Memberikan gambaran mengenai produk yang paling diminati oleh konsumen di wilayah tertentu.
+
+6. Analisis Perilaku Konsumen
+Kriteria: Menampilkan perilaku konsumen berdasarkan lokasi, seperti apakah konsumen lebih sering membeli produk tertentu secara offline atau online, atau jenis pembayaran yang mereka pilih (cash, e-wallet, dll.).
+
+Manfaat: Memungkinkan analisis lebih dalam tentang preferensi konsumen berdasarkan wilayah.
+
+7. Status Stok Produk per Wilayah
+Kriteria: Tampilkan status ketersediaan stok produk di tiap wilayah, apakah produk tersebut tersedia atau tidak.
+
+Manfaat: Memberikan informasi real-time terkait stok produk, membantu menghindari kekurangan produk di wilayah dengan permintaan tinggi.
+
+8. Kampanye Pemasaran dan Promo Terkait Wilayah
+Kriteria: Tampilkan informasi terkait kampanye pemasaran atau promo khusus yang berlaku di setiap wilayah.
+
+Manfaat: Memberikan analisis tentang seberapa efektif kampanye pemasaran di setiap wilayah serta dampaknya terhadap penjualan.
+
+9. Lokasi Gudang atau Pusat Distribusi
+Kriteria: Tampilkan lokasi gudang atau pusat distribusi di peta yang dapat mempengaruhi distribusi produk ke wilayah tertentu.
+
+Manfaat: Membantu dalam memahami seberapa efisien distribusi produk ke berbagai wilayah dan mengidentifikasi wilayah yang mungkin memiliki kendala pengiriman.
+
+10. Waktu Pengiriman dan Kepuasan Pelanggan
+Kriteria: Tampilkan waktu rata-rata pengiriman produk dan tingkat kepuasan pelanggan di tiap wilayah.
+
+Manfaat: Mengidentifikasi wilayah dengan pengiriman paling cepat atau lambat dan menganalisis pengaruhnya terhadap kepuasan pelanggan.
+
+11. Peta Kepadatan Populasi
+Kriteria: Tambahkan layer peta yang menunjukkan kepadatan populasi di tiap wilayah.
+
+Manfaat: Memberikan gambaran tentang wilayah yang memiliki potensi pasar lebih besar berdasarkan jumlah penduduk dan kepadatan di suatu wilayah.
+
+12. Persentase Pertumbuhan Penjualan
+Kriteria: Tampilkan persentase pertumbuhan penjualan dari tahun ke tahun atau bulan ke bulan di tiap wilayah.
+
+Manfaat: Memberikan insight tentang seberapa cepat pasar berkembang di masing-masing wilayah.
+
+13. Pengaruh Musim atau Cuaca
+Kriteria: Menampilkan pengaruh kondisi cuaca atau musim terhadap penjualan di tiap wilayah (misalnya, apakah ada penurunan penjualan di musim hujan atau kenaikan di musim panas).
+
+Manfaat: Membantu dalam perencanaan strategis berdasarkan perubahan musim atau cuaca.
+
+14. Persaingan Antar Wilayah
+Kriteria: Tampilkan data atau indikator terkait persaingan di tiap wilayah, seperti keberadaan kompetitor atau tingkat persaingan pasar.
+
+Manfaat: Memberikan gambaran tentang tingkat persaingan di masing-masing wilayah dan membantu strategi pemasaran.
+
+15. Ketersediaan Layanan Setelah Penjualan
+Kriteria: Menampilkan data tentang layanan purna jual yang tersedia di setiap wilayah, seperti pusat layanan atau garansi produk.
+
+Manfaat: Memberikan kepercayaan lebih kepada konsumen yang berbelanja di wilayah dengan dukungan purna jual yang lebih baik.
