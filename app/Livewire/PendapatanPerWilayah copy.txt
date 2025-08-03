@@ -1,0 +1,29 @@
+<?php
+
+namespace App\Livewire;
+
+use Livewire\Component;
+
+class PendapatanPerWilayah extends Component
+{
+    public $locations;
+
+    public function mount()
+    {
+        // Data Dummy Pendapatan per Wilayah
+        $this->locations = [
+            ['city' => 'Medan', 'latitude' => 3.5952, 'longitude' => 98.6722, 'sales' => 1500000],
+            ['city' => 'Jakarta', 'latitude' => -6.2088, 'longitude' => 106.8456, 'sales' => 2500000],
+            ['city' => 'Bandung', 'latitude' => -6.9175, 'longitude' => 107.6191, 'sales' => 1800000],
+            ['city' => 'Semarang', 'latitude' => -7.0051, 'longitude' => 110.4381, 'sales' => 1300000],
+            ['city' => 'Surabaya', 'latitude' => -7.2504, 'longitude' => 112.7688, 'sales' => 2200000],
+        ];
+    }
+
+    public function render()
+    {
+        return view('livewire.pendapatan-perwilayah', [
+            'locations' => $this->locations
+        ]);
+    }
+}
