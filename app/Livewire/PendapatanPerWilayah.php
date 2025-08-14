@@ -10,13 +10,10 @@ class PendapatanPerWilayah extends Component
 
     public function mount()
     {
-        // Data Dummy Pendapatan per Wilayah
         $this->locations = [
 
-            // wilayah medan
             ['city' => 'Medan', 'latitude' => 3.5952, 'longitude' => 98.6722, 'sales' => 1500000, 'transactions' => 120],
 
-            // wilayah jakarta
             ['city' => 'Cabang Jakarta - Umeda', 'latitude' => -6.136240, 'longitude' => 106.788331, 'sales' => 2500000, 'transactions' => 189],
             ['city' => 'Cabang Jakarta - KBN', 'latitude' => -6.136246, 'longitude' => 106.788422, 'sales' => 2500000, 'transactions' => 189],
             ['city' => 'Cabang Jakarta - 05', 'latitude' => -6.148773, 'longitude' => 106.778389, 'sales' => 2500000, 'transactions' => 189],
